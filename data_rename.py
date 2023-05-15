@@ -1,8 +1,8 @@
 from PIL import Image
 import os
 
-source_folder = 'input_png_rotated/capacitor'
-destination_folder = 'input_png_augmented/capacitor'
+source_folder = 'handdrawn_png\\resistor'
+destination_folder = 'handdrawn_png\\resistor'
 
 # specify the expected image extension 
 extension = 'png'
